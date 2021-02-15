@@ -644,7 +644,7 @@ ul.the-icons {
 [class^="icon-"],
 [class*=" icon-"] {
   margin-top: 1px;
-  margin-right: .3em;
+  margin-right: 0;
 }
 
 /* custom size */
